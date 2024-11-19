@@ -1,1 +1,184 @@
+<resources>
+    <!-- Base Settings -->
+    <string name="app">Ap</string>
 
+    <!-- Admin Settings -->
+    <string name="admin_permission_message">Mae mLauncher yn addo defnyddio caniatâd sgrin clo yn gyfrifol. Nid yw mLauncher yn casglu nac yn rhannu unrhyw ddata.</string>
+    <string name="experimental">(Arbrofol)</string>
+
+    <!-- Settings Headers -->
+    <string name="appearance">Ymddangosiad</string>
+    <string name="behavior">Ymddygiad</string>
+    <string name="homescreen">Sgrin Gartref</string>
+    <string name="alignment">Aliniad</string>
+    <string name="gestures">Ystumiau</string>
+    <string name="miscellaneous">Amrywiol</string>
+
+    <!-- Home Strings -->
+    <string name="hidden_apps">Apiau Cuddiedig</string>
+    <string name="reorder_apps">Aildrefnu Apiau</string>
+    <string name="set_as_default_launcher">Gosod fel Ap Cartref Rhagosodedig</string>
+    <string name="change_default_launcher">Newid Ap Cartref Rhagosodedig</string>
+
+    <!-- Appearance Strings -->
+    <string name="status_bar">Dangos Bar Statws</string>
+    <string name="theme_mode">Modd Thema</string>
+    <string name="color_mode">Modd Lliw</string>
+    <string name="app_language">Iaith Rhyngwyneb</string>
+    <string name="app_text_size">Maint Testun Ap</string>
+    <string name="clock_text_size">Maint Testun Cloc</string>
+    <string name="date_text_size">Maint Testun Dyddiad</string>
+    <string name="battery_text_size">Maint Testun Batri</string>
+    <string name="app_padding_size">Maint Padin</string>
+    <string name="follow_accent_colors">Lliwiau Acen</string>
+    <string name="background_opacity">Didreiddedd Cefndir</string>
+    <string name="all_apps_text">Dangos Testun Pob Ap</string>
+    <string name="app_font">Teulu Ffont</string>
+
+    <!-- Behavior Strings -->
+    <string name="auto_show_keyboard">Dangos Bysellfwrdd yn Awtomatig</string>
+    <string name="auto_open_apps">Agor Apiau yn Awtomatig</string>
+    <string name="enable_notifications">Galluogi Hysbysiadau</string>
+    <string name="display_recent_apps">Dangos Apiau Diweddar</string>
+    <string name="number_of_recents">Nifer o Apiau Diweddar</string>
+    <string name="filter_strength">Cryfder Hidlo</string>
+    <string name="search_from_start">Chwilio Ap o\'r Dechrau</string>
+    <string name="icon_font">Defnyddio Ffont Eicon</string>
+
+    <!-- Home-screen Strings -->
+    <string name="apps_on_home_screen">Nifer o Lwybrau Fyr</string>
+    <string name="pages_on_home_screen">Nifer o Dudalennau</string>
+    <string name="enable_home_pager">Galluogi Tudalenydd Cartref</string>
+    <string name="show_time">Dangos Amser</string>
+    <string name="show_time_format">Fformat Amser (AM/PM)</string>
+    <string name="show_date">Dangos Dyddiad</string>
+    <string name="show_battery">Dangos Batri</string>
+    <string name="show_battery_icon">Dangos Eicon Batri</string>
+    <string name="lock_home_apps">Cloi Apiau</string>
+    <string name="extend_home_apps_area">Ymestyn Ardal Clicadwy</string>
+    <string name="home_alignment_bottom">Alinio Sgrin Gartref i\'r Gwaelod</string>
+
+    <!-- Alignment Strings -->
+    <string name="display_app_usage_stats">Dangos Ystadegau Defnydd Ap</string>
+    <string name="home_alignment">Sgrin Gartref Apiau</string>
+    <string name="clock_alignment">Cloc a Dyddiad</string>
+    <string name="drawer_alignment">Apiau yn App Drawer</string>
+
+    <!-- Gestures Strings -->
+    <string name="short_swipe_up_app">Sweipio\'n Fyr i Fyny</string>
+    <string name="short_swipe_down_app">Sweipio\'n Fyr i Lawr</string>
+    <string name="short_swipe_left_app">Sweipio\'n Fyr i\'r Chwith</string>
+    <string name="short_swipe_right_app">Sweipio\'n Fyr i\'r Dde</string>
+    <string name="long_swipe_up_app">Sweipio\'n Hir i Fyny</string>
+    <string name="long_swipe_down_app">Sweipio\'n Hir i Lawr</string>
+    <string name="long_swipe_left_app">Sweipio\'n Hir i\'r Chwith</string>
+    <string name="long_swipe_right_app">Sweipio\'n Hir i\'r Dde</string>
+    <string name="clock_click_app">Clic ar Cloc</string>
+    <string name="date_click_app">Clic ar Dyddiad</string>
+    <string name="usage_click_app">Clic ar Cyfanswm Defnydd</string>
+    <string name="double_tap">Tap Dwbl</string>
+
+    <!-- Gestures Do Strings -->
+    <string name="show_notifications">Dansgos Hysbysiadau</string>
+    <string name="show_app_list">Dangos Rhestr Ap</string>
+    <string name="open_app">Agor Ap</string>
+    <string name="lock_screen">Cloi Sgrin</string>
+    <string name="open_quick_settings">Gosodiadau Cyflym</string>
+    <string name="show_recents">Dangos y Diweddar</string>
+    <string name="open_power_dialog">Deialog Pŵer</string>
+    <string name="take_a_screenshot">Tynnu Sgrinlun</string>
+    <string name="left_page">Mynd i\'r Dudalen Chwith</string>
+    <string name="right_page">Mynd i\'r Dudalen Dde</string>
+    <string name="double_tap_to_lock_screen">Tap Dwbl i Gloi</string>
+
+    <!-- Miscellaneous Strings -->
+    <string name="settings_text_size">Maint Testun Gosodiadau</string>
+    <string name="display_hidden_apps">Dangos Apiau Cuddiedig</string>
+    <string name="lock_settings">Cloi Gosodiadau</string>
+
+    <!-- Backup Strings -->
+    <string name="backup">Wrth Gefn</string>
+    <string name="load_backup">Llwytho</string>
+    <string name="save_backup">Cadw</string>
+    <string name="clear_backup">Clirio</string>
+
+    <!-- Settings Strings -->
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="center">Center</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="settings">Gosodiadau</string>
+    <string name="lang_system">System</string>
+    <string name="system_default">System</string>
+    <string name="delete">Dileu</string>
+    <string name="hide">Cuddio</string>
+    <string name="unhide">Dangos</string>
+    <string name="rename">Ailenwi</string>
+    <string name="info">Info</string>
+    <string name="okay">Okay</string>
+    <string name="save">Cadw</string>
+    <string name="show">Dangos</string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="enable">Galluogi</string>
+    <string name="disable">Analluogi</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="open">Agor</string>
+    <string name="close">Cau</string>
+    <string name="copy">Copïo</string>
+    <!-- Colored Themes -->
+    <string name="catppuccino">Catppuccino</string>
+    <string name="nordic">Nordic</string>
+    <!-- Dark Only Themes -->
+    <string name="dracula">Dracula</string>
+    <string name="arc">Arc</string>
+    <string name="nokto">Nokto</string>
+    <string name="breeze">Breeze</string>
+    <string name="yaru">Yaru</string>
+    <!-- Light Only Themes -->
+    <string name="adwaita">Adwaita</string>
+
+    <!-- PinCode Strings -->
+    <string name="text_authentication_cancel">Authentication Cancel.</string>
+    <string name="text_authentication_error">Authentication error:%1$s(code %2$d)</string>
+    <string name="text_authentication_failed">Authentication failed.</string>
+    <string name="text_biometric_login">Biometric login for mLauncher</string>
+    <string name="text_biometric_login_sub">Log in using your biometric credentials.</string>
+
+    <!-- Crash Strings -->
+    <string name="acra_crash">Crash</string>
+    <string name="acra_dialog_text">We\'re sorry, but %1$s has encountered an unexpected issue and needs to close. Please help us improve by sending a crash report.\n\n%1$s values your privacy and the data collected is solely used for improving app stability. No personal information is collected. Thank you for your support!</string>
+    <string name="acra_send_report">Send Report</string>
+    <string name="acra_dont_send">Don\'t Send</string>
+    <string name="acra_mail_body">A crash has occurred in the application.\n\nBelow are the details of the device. The error log has been attached as a file for your reference. We would appreciate your assistance in resolving this issue.\n\nDevice Information: \n[PLEASE fill in the information below also removing anything between the square brackets or this will be ignored.]\n\n- App Version: [0.0.1]\n- Android Version: [14]\n- Device Name: [Android Pixel 69]\n- Install Location: [github, fdroid, obtanium, self]\n\nYour prompt attention to this matter is greatly appreciated.\n\nThank you.\n</string>
+
+    <string name="settings_font_system">System</string>
+
+    <!-- Search Stings -->
+    <string name="search_engine">Peiriant Chwilio</string>
+    <string name="search_google">Google</string>
+    <string name="search_yahoo">Yahoo</string>
+    <string name="search_duckduckgo">DuckDuckGo</string>
+    <string name="search_bing">Bing</string>
+    <string name="search_brave">Brave</string>
+    <string name="search_swisscow">SwissCows</string>
+
+    <!-- Unsorted Strings -->
+    <string name="show_apps">Pob Ap</string>
+    <string name="total_screen_time">Cyfanswm Amser Sgrin</string>
+    <string name="can_not_delete_system_apps">Methu Dileu Apiau System</string>
+    <string name="please_select_app">Dewiswch Ap</string>
+    <string name="drawer_list_empty_hint">No apps found</string>
+    <string name="long_press_for_settings">Long press anywhere for settings</string>
+    <string name="swipe_up_for_apps">Swipe up for all apps</string>
+    <string name="app_drawer_tips">Tip: Swipe down to dismiss. Scroll to hide keyboard.</string>
+    <string name="double_tap_lock_is_enabled_message">If double tap lock disables fingerprint or face unlock, open mLauncher settings, tap on \'experimental\' and follow the instructions. Thank you.</string>
+    <string name="double_tap_lock_uninstall_message">Double tap to lock enabled. \n\nNote: Turn this OFF first if you decide to delete mLauncher.</string>
+    <string name="accessibility_service_name">mLauncher Actions Service</string>
+    <string name="accessibility_service_description">This accessibility service allows mLauncher to do certain actions such as locking the screen or opening the quick settings. Our accessibility service does not collect or share any data.</string>
+    <string name="version">Fersiwn</string>
+</resources>
